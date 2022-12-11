@@ -1,0 +1,1 @@
+New php project using Git 
